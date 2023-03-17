@@ -1,3 +1,3 @@
-# Repositório do desafio de projeto sobre GitHub da Dio :smile
+# Repositório do desafio de projeto sobre GitHub da Dio
 
-Desafio de projeto sobre GitHub
+Criando o primeiro desafio de projeto no Bootcamp da DIO
