@@ -1,0 +1,35 @@
+Introdução ao Git e ao GitHub
+
+=====================================================
+
+Tópicos fundamentais pra entender o funcionamento do Git
+
+- SHA - (Secure Hash Algoritm)
+Sistema de encriptação de arquivos que, ao encripitar,
+gera um código de 40 dígitos.
+_____________________________________________________
+-----------------------------------------------------
+
+Objetos internos do Git
+
+Blobs
+Trees 
+Commits
+_____________________________________________________
+-----------------------------------------------------
+
+Chaves SSH e Tokens (Acesso ao GitHub)
+
+_____________________________________________________
+-----------------------------------------------------
+
+Git Init - Cria um repositório
+Git Add - Altera um arquivo de Untracked (o Git não
+tem ciência) e transforma direto em Staged
+Git add * - adiciona ao staged todos os arquivos modificados
+no repositório
+Git Status - Status dos arquivos (saber se está commitado)
+mkdir - Criar pasta no local em que está
+
+
+
